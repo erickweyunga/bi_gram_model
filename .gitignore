@@ -1,0 +1,4 @@
+.venv/*
+.idea/*
+data/*
+swahili_nlp/models/swahili_language_model.pt
